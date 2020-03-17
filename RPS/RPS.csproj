@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\paper.svg" />
+    <None Include="wwwroot\rock.svg" />
+    <None Include="wwwroot\scissors.svg" />
+  </ItemGroup>
+
+
+
+</Project>
